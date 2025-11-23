@@ -6,7 +6,8 @@ Isko360 is a centralized, database-driven platform designed to modernize the man
 
 ## 📌 Project Overview
 
-The DOST-SEI Scholarship Program supports thousands of scholars nationwide, yet its management at the university level remains largely manual and disconnected.  
+The DOST-SEI Scholarship Program supports thousands of scholars nationwide, yet its management at the university level remains largely manual and disconnected.
+
 **Isko360** aims to solve this by providing:
 
 - A unified database system for scholar records  
